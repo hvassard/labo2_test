@@ -1,4 +1,4 @@
-public class Principal {
+public class Principal 
     public static void main(String[] args) {
         for(int i = 1 ; i < 201 ; i++ ){
             if ( i%3 == 0 && i%5==0 ){
